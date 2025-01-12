@@ -1,8 +1,8 @@
-import { readFile } from 'fs/promises';
-import { writeFile } from 'fs/promises';
+import { readFile, writeFile } from 'fs/promises';
+import path from 'path';
 import { createFakeContact } from '../utils/createFakeContact.js';
 
-const PATH_DB = './src/db/db.json';
+const PATH_DB = path.join(process.cwd(), 'src', 'db', 'db.json');
 
 export const addOneContact = async () => {
   try {
