@@ -33,5 +33,40 @@
     "phone": "(876) 681-0257 x035",
     "email": "Jevon19@yahoo.com",
     "job": "Future Creative Manager"
+  },
+  {
+    "id": "da8716bc-4e6d-4025-a546-6fe03ffb1136",
+    "name": "Ted Simonis",
+    "phone": "(496) 793-9645",
+    "email": "Sasha39@hotmail.com",
+    "job": "Internal Solutions Representative"
+  },
+  {
+    "id": "7cec3863-890e-4528-9232-73ea8eed9643",
+    "name": "Justin Cremin",
+    "phone": "691.916.5022 x167",
+    "email": "Timmy.Zulauf16@yahoo.com",
+    "job": "Regional Directives Analyst"
+  },
+  {
+    "id": "a61ce932-8baa-47a3-8d2a-0985b4385411",
+    "name": "Ellis Kutch",
+    "phone": "710-656-2029 x3408",
+    "email": "Maryjane_Dare@gmail.com",
+    "job": "Lead Integration Facilitator"
+  },
+  {
+    "id": "e1a581a1-769d-49df-acef-f9b0546e359d",
+    "name": "Ruben Haag",
+    "phone": "202-718-3464 x0475",
+    "email": "Schuyler_Vandervort@hotmail.com",
+    "job": "Senior Markets Technician"
+  },
+  {
+    "id": "e1700b21-cdf0-4c5c-a003-70eda65847fc",
+    "name": "Nicolas Flatley",
+    "phone": "1-842-291-3538 x42167",
+    "email": "Moises.Kuvalis@yahoo.com",
+    "job": "Senior Implementation Strategist"
   }
 ]
